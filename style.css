@@ -1,0 +1,19 @@
+td{
+    background-image: linear-gradient(to right,rgb(92, 149, 159),rgb(15, 75, 105));
+}
+#table{
+    margin: 40px auto;
+    
+}
+td{
+    text-align: center;
+    font-size: 36px;
+    width: 70px;
+    height:70px;
+    font-weight: 600;
+    color: rgb(208, 224, 72);
+    border-radius: 10px;
+}
+#players,#playersres,#res{
+    text-align: center;
+}
